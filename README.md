@@ -444,10 +444,3 @@ Bankloan_Cleaning_PRE/
 
 **Mant Patel**
 
-GitHub Repository:
-
-[Bankloan_Cleaning_PRE Repository](https://github.com/Mant-0957/Bankloan_Cleaning_PRE?utm_source=chatgpt.com)
-
----
-
-## ⭐ If you found this project useful, consider giving the repository a star.
